@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582958817578",
+    "project_id": "magaz-fe8fe",
+    "storage_bucket": "magaz-fe8fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582958817578:android:1df9b6fe4337da0a4dbe53",
+        "android_client_info": {
+          "package_name": "com.skuu.tindercards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582958817578-3sqkjs6qrs9r2vfr09ge2hj79mh730ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdR6qYZ81PkduW7BM6CAtrafOqT5USIA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582958817578-3sqkjs6qrs9r2vfr09ge2hj79mh730ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
